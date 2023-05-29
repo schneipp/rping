@@ -1,4 +1,4 @@
-# Simple Network Scanner
+# rping - Simple Network Scanner writtein in Rust
 
 This is a simple network scanner written in Rust that scans IP addresses by sending ping requests. It allows you to discover active hosts on a network by leveraging the ICMP protocol.
 
