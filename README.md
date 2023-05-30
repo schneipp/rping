@@ -28,3 +28,15 @@ To compile and run this network scanner, you need to have Rust installed on your
    sudo cp target/release/rping /usr/local/bin
 
 Keep in mind that you might need root privileges to run it!
+
+
+##Usage
+```shell
+rping --help
+Usage: rping [OPTIONS]
+
+Options:
+  -s, --startip <STARTIP>  [default: 192.168.0.1]
+  -e, --endip <ENDIP>      [default: 192.168.0.254]
+  -h, --help               Print help
+  -V, --version            Print version
