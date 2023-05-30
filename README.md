@@ -30,7 +30,7 @@ To compile and run this network scanner, you need to have Rust installed on your
 Keep in mind that you might need root privileges to run it!
 
 
-##Usage
+## Usage
 ```shell
 rping --help
 Usage: rping [OPTIONS]
